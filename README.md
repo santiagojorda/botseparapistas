@@ -17,13 +17,14 @@ Demucs can be hard to execute if you are not familiary with programming or execu
 The Bot reads mentions on Twitter where a song has been passed as a Youtube link (for now, it will be changed in the future), downloads the video and then extracts an audio file from it. The script execute Demucs passing the audio file path recently extracted. It will take a few minutes.
 When this is done, the Bot will upload the audio files to FileStack and then it will be replying the original tweet incluying the FileStack URLS of audio files uploaded. 
 
-## how to implement a bot:
-get a credentials file called credentials.py with this variables:
+# how to implement a bot:
+Get a credentials file called credentials.py with this variables:
 - access_token
 - access_secret
 - consumer_secret
 - consumer_key
-you can generate this values from TWITTER'S API page after register your proyect.
+
+You can generate this values from TWITTER'S API page after register your proyect.
 
 # how to install it:
 (this will change with a one line command or executing for first time executing, and if this is executed from outside anaconda shell, it will open a execute it)
