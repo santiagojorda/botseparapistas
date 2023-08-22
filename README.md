@@ -1,4 +1,4 @@
-# Track Splitter Bot bot
+# Track Splitter Bot on Twitter
 ---
 This project arises from the need to learn music through audio tracks where all the instruments are embedded in it. by this traditional learning method, it is common to lose track the instrument we're paying attention because other sounds may interfere.
 Based on this neccesity, I have looked for a method to obtain a clean track (or as clean as possible) of that single instrument to follow in my rehearsals.
